@@ -3,7 +3,7 @@
 **Tareator 3000** is a desktop task management application developed in Python using Tkinter and SQLite. It allows users to add, edit, delete, and mark tasks as completed, as well as sort them by priority and due date.
 
 ## Screenshot:
-img_readme/tetris_preview.png
+img_readme/tareas.jpg
 
 ## Features:
 - **Intuitive graphical interface**: Built with Tkinter.
